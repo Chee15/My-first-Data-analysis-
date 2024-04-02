@@ -1,1 +1,13 @@
-# My-first-Data-analysis-
+# Project Name: My first Data analysis repo
+
+....
+# project Objective: Problem Statement
+
+....
+# Data Sourcing
+
+....
+# Data Cleaning
+
+....
+# Findings and Recommendations
